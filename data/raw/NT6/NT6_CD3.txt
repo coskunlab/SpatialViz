@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Er(170)	170Er_CD20	White	0.00	5.64	0.50	5	100	100	100	100

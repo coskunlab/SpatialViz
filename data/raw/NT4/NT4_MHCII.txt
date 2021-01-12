@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Lu(175)	175Lu_MHCII	White	0.00	16.61	0.50	5	100	100	100	100

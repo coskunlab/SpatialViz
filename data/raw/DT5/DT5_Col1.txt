@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Tm(169)	169Tm_Col1	White	0.00	23.95	0.50	5	100	100	100	100

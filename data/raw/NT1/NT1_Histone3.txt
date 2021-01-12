@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Yb(171)	171Yb_Histone3	White	0.00	631.88	0.50	5	100	100	100	100

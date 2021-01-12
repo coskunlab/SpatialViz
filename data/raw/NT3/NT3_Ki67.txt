@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Er(168)	168Er_Ki67	White	0.00	10.22	0.50	5	100	100	100	100

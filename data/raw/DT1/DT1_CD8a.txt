@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Dy(162)	162Dy_CD8a	White	0.00	12.45	0.50	5	100	100	100	100

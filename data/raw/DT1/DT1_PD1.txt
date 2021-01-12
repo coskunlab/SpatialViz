@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Ho(165)	165Ho_PD1	White	0.00	3.24	0.50	5	100	100	100	100

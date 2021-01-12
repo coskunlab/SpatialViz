@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Gd(158)	158Gd_ECadherin	White	0.00	12.23	0.50	5	100	100	100	100

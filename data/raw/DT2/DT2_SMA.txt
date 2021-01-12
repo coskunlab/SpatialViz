@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Pr(141)	141Pr_SMA	White	0.03	5.54	0.50	5	100	100	100	100

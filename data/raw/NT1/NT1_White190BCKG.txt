@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+BCKG(190)	190BCKG	White	0.00	2.79	0.50	5	100	100	100	100

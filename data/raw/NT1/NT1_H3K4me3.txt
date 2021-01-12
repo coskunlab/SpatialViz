@@ -1,0 +1,2 @@
+Channel	Label	Color	ThresholdMin	ThresholdMax	Gamma	ColorMin(%)	ColorMax(%)	Red(%)	Green(%)	Blue(%)
+Sm(149)	149Sm_H3K4me3	White	0.00	25.67	0.50	5	100	100	100	100
