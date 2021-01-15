@@ -10,7 +10,13 @@ This forlder contains the scripts and data to reproduce the result in the paper 
 - "clusters" folder contains the anatomical clustering of each ROI 
 
 ## Notebooks 
-"notebooks" folder contains jupyter notebook script used 
+"notebooks" folder contains jupyter notebook script used:
+    - 01_image_level_clustering is the script for performing KMeans clustering of marker images
+    - 02_cluster_representation is the script for generating combined image of mean cluster images
+    - 03_marker_stats is the script for generating statistical plot of combination of ROI such as area and expression level 
+    - 04_spatial_proximity_plot is the script for plotting spatial proximity for pair of markers from a ROI
+    - 05_topographic_map is the script for generating 3D visualization of markers from a ROI
+    - 06_stats_plot is the script for generating statistical plot for individual ROI 
 
 ## Source code
 "src" folder contains customs python scripts module used
