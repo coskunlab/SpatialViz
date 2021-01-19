@@ -2,11 +2,11 @@ This folder contains the scripts and data to reproduce the result in the paper "
 
 From IMC image dataset, pixel level clustering is performed to extract the anatomical properties.
 
-![Alt text](figures\clusters\DT1_cluster_by_marker.png?raw=true)
+![Alt text](figures/clusters/DT1_cluster_by_marker.png?raw=true)
 
 The clustered images are then combined together in one image in order to visualize the clusters representation
 
-![Alt text](figures\clusters\DT1_cluster_combined2.png?raw=true)
+![Alt text](figures/clusters/DT1_cluster_combined2.png?raw=true)
 
 
 
