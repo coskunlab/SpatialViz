@@ -1,13 +1,30 @@
 This folder contains the scripts and data to reproduce the result in the paper "Spatially visualized single-cell pathology of highly multiplexed protein profiles in health and disease"
 
-From IMC image dataset, pixel level clustering is performed to extract the anatomical properties.
+From IMC image dataset, we can look at Immune cell expression in health and disease 
 
-![Alt text](figures/clusters/DT1_cluster_by_marker.png?raw=true)
+![Alt text](figures/stats/count_Icell.png)
+
+Then, pixel level clustering with KMeans is performed to extract the anatomical properties.
+
+![Alt text](figures/clusters/DT2_cluster_by_marker.png?raw=true)
 
 The clustered images are then combined together in one image in order to visualize the clusters representation
 
-![Alt text](figures/clusters/DT1_cluster_combined2.png?raw=true)
+![Alt text](figures/clusters/DT2_cluster_combined2.png?raw=true)
 
+In order to better understand the spatial anatomy in various dataset, intra and inter cluster distance network is generated
+
+![Alt text](figures/clusters/DT2_cluster_inter.png)
+![Alt text](figures/clusters/DT2_cluster_intra.png)
+
+It is also possible to look at individual markers by generating spatial reference map with fixed node 
+
+![Alt text](figures/clusters/DT2_spatial_reference.png)
+
+It is possible to look at the 2D and 3D topographic layer of specific markers such as CD44, Pankeratin and GranzymeB
+
+![Alt text](figures/3D_topo/DT2_expression2.png)
+![Alt text](figures/3D_topo/DT2.png)
 
 
 # Organization
