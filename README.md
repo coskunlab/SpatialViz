@@ -4,6 +4,10 @@ From IMC image dataset, we can look at Immune cell expression in health and dise
 
 ![Alt text](figures/stats/count_Icell.png)
 
+The expression level for all the markers across health and disease can be summarized as follow:
+
+![Alt text](figures/stats/dotplot_expression.png)
+
 Then, pixel level clustering with KMeans is performed to extract the anatomical properties.
 
 ![Alt text](figures/clusters/DT2_cluster_by_marker.png?raw=true)
@@ -44,6 +48,8 @@ It is possible to look at the 2D and 3D topographic layer of specific markers su
 - 04_spatial_proximity_plot is the script for plotting spatial proximity for pair of markers from a ROI
 - 05_topographic_map is the script for generating 3D visualization of markers from a ROI
 - 06_stats_plot is the script for generating statistical plot for individual ROI 
+- 07_network_viz is the script for generating network visualization of intra and inter cluster spatial map using NetworkX package 
+- 08_spatial_reference_map is the script for generating network visualization of spatial reference map using NetworkX package 
 
 ## Source code
 "src" folder contains customs scripts used:

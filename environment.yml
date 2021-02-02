@@ -1,0 +1,14 @@
+name: work
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - python=3.7.9
+  - pandas
+  - scikit-image
+  - seaborn
+  - scikit-learn
+  - plotly=4.14.3
+  - networkx
+  - opencv-python
+prefix: C:\Users\thu71\.conda\envs\work
