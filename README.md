@@ -60,5 +60,4 @@ It is possible to look at the 2D and 3D topographic layer of specific markers su
 "figures" folder contains generated figures for the paper
 
 ## Citation
-Please Cite
-Allam, M., Hu, T., Cai, S. et al. Spatially visualized single-cell pathology of highly multiplexed protein profiles in health and disease. Commun Biol 4, 632 (2021). https://doi.org/10.1038/s42003-021-02166-2
+**Please Cite:**  Allam, M., Hu, T., Cai, S. et al. Spatially visualized single-cell pathology of highly multiplexed protein profiles in health and disease. Commun Biol 4, 632 (2021). https://doi.org/10.1038/s42003-021-02166-2
